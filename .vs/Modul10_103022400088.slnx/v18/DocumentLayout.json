@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\Modul10_103022400088\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C8B7992-E466-45EC-B8E1-2D96D428BD66}|Modul10_103022400088.csproj|d:\\modul10_103022400088\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C8B7992-E466-45EC-B8E1-2D96D428BD66}|Modul10_103022400088.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5ED0686A-648B-99C0-4881-7D71FDCD8C56}|Modul10_103022400088.csproj|d:\\modul10_103022400088\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED0686A-648B-99C0-4881-7D71FDCD8C56}|Modul10_103022400088.csproj|solutionrelative:gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED0686A-648B-99C0-4881-7D71FDCD8C56}|Modul10_103022400088.csproj|d:\\modul10_103022400088\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED0686A-648B-99C0-4881-7D71FDCD8C56}|Modul10_103022400088.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,14 +35,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "D:\\Modul10_103022400088\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "WeatherForecast.cs",
-              "ToolTip": "D:\\Modul10_103022400088\\WeatherForecast.cs",
-              "RelativeToolTip": "WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Title": "GameController.cs",
+              "DocumentMoniker": "D:\\Modul10_103022400088\\GameController.cs",
+              "RelativeDocumentMoniker": "GameController.cs",
+              "ToolTip": "D:\\Modul10_103022400088\\GameController.cs",
+              "RelativeToolTip": "GameController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T23:39:28.594Z",
+              "WhenOpened": "2026-05-05T23:54:02.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\Modul10_103022400088\\Game.cs",
+              "RelativeDocumentMoniker": "Game.cs",
+              "ToolTip": "D:\\Modul10_103022400088\\Game.cs",
+              "RelativeToolTip": "Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T23:49:32.089Z",
               "EditorCaption": ""
             }
           ]
